@@ -1,1 +1,2 @@
-# hashtag_news
+# #news
+A social news app for the desktop.
